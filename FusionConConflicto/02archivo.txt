@@ -1,1 +1,1 @@
-archivo numero 2 en rama main
+Segundo conflicto en rama3, con intension en rama main
