@@ -1,1 +1,1 @@
-Este es el primer conflicto, creado en rama3 para rama main
+Este es el primer conflicto, probando conflicto
