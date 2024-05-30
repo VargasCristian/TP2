@@ -1,4 +1,4 @@
+Este es el primer conflicto, otro intento creando el conflicto
 
-Este es el primer conflicto, realizacion de conflicto
 
-Escribo algo en la linea 4 para crear un conflicto con una rama
+Con esta linea creamos el conflicto con la rama main
