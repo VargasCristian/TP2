@@ -1,1 +1,1 @@
-archivo numero 2 en rama main
+Conflicto en archivo02, con rama3
