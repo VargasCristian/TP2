@@ -1,1 +1,2 @@
-Conflicto en archivo02, con rama3
+Segundo conflicto en rama3, con intension en rama main
+
