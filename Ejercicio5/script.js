@@ -1,4 +1,3 @@
-// script.js
 document.getElementById("clickMe").onclick = test;
 
 function test() {
